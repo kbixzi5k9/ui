@@ -1,15 +1,37 @@
-# shadcn-ui/ui
+# shadcn/ui
 
 Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 ## Documentation
 
-Visit https://ui.shadcn.com/docs to view the documentation.
+Visit [ui.shadcn.com](https://ui.shadcn.com) to view the documentation.
 
-## Contributing
+## Features
 
-Visit our [contributing guidelines](https://github.com/shadcn-ui/ui/blob/main/CONTRIBUTING.md) to learn how to contribute. It includes setup instructions, coding standards, and more.
+- Built with **Radix UI** and **Tailwind CSS**.
+- **Copy and paste** components directly into your codebase.
+- **Customizable**: Change colors, typography, and styling to match your brand.
+- **TypeScript**: First-class TypeScript support out of the box.
+
+## Quick Start
+
+Initialize shadcn/ui in your project:
+
+```bash
+npx shadcn@latest init
+```
+
+Add components as needed:
+
+```bash
+npx shadcn@latest add button
+```
+
+## Community & Support
+
+- Join the [Discord server](https://discord.gg/shadcn)
+- Follow [@shadcn](https://twitter.com/shadcn) on Twitter for updates
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](LICENSE.md).
